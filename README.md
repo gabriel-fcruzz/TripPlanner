@@ -1,11 +1,15 @@
-# Sample Snack app
+<h1>TripPlanner - Versão em Português</h1>
+<p>O app TripPlanner foi desenvolvido com React Native com diferenças tanto para IOS quanto Android. O objetivo do app é trazer várias funções e informações úteis durante uma viagem, como:</p>
+<p> - Um quiz para a viagem quando você estiver no modo avião.</p>
+<p> - Sua localização atual com Latitude e Longitude além de uma conexão com o Google Maps.</p>
+<p> - Uma lista de lugares para visitar que possúi persistência de dados ou seja a lista não desaparece ao fechar o App.</p>
+<p> - Uma galeria com vídeos e imagens sobre a viagem (Em Desenvolvimento).</p>
+<p> - As configurações do App como mudar de modo claro para modo escuro.</p>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<h1>TripPlanner - English Version</h1>
+<p>The TripPlanner app was developed with React Native, with differences for both iOS and Android. The app's goal is to provide various features and useful information during a trip, such as:</p>
+<p> - A travel quiz to take while you're in airplane mode.</p>
+<p> - Your current location with Latitude and Longitude, along with a connection to Google Maps.</p>
+<p> - A list of places to visit with data persistence, meaning the list does not disappear when you close the app.</p>
+<p> - A gallery with videos and images about the trip (In Development).</p>
+<p> - App settings, such as switching between light and dark mode.</p>
